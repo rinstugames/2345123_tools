@@ -1,7 +1,7 @@
 # 2345123 Tools
 
 ## Description
-2345123 Tools is a professional, open-source tool designed to detect and remove the notorious "hao123/2345 adware/virus.
+2345123 Tools is a professional, open-source tool designed to detect and remove the notorious "2345/hao123 adware/virus.
 
 ## Features
 - **One-click scan and removal** of 2345 and hao123 related adware
