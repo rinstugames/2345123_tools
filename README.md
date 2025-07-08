@@ -1,11 +1,11 @@
 # 2345123 Tools
 
 ## Description
-2345123 Tools is a professional, open-source tool designed to detect and remove the notorious "2345/hao123 adware/virus.
+2345123 Tools is a professional, open-source tool designed to detect and remove the notorious "2345/hao123" adware/virus.
 
 ## Features
 - **One-click scan and removal** of 2345 and hao123 related adware
-- **Kills malicious processes** (including FlashHelperService.exe, FlashCenter.exe)
+- **Kills malicious processes** (including hao123网址导航,2345加速浏览器,2345PDF转换器,2345安全卫士,2345软件管家,2345看图王,2345游戏大厅,2345好压,2345影视大全,2345网址导航,2345桌面,2345王牌输入法,2345OCR文字识别,360壁纸,360桌面助手,360游戏大厅,360办公助手,360PDF转换,驱动人生,极速浏览器,小鸟壁纸,快压,恒星播放器)
 - **Removes malicious services, files, directories, and registry entries**
 - **Deletes desktop shortcuts**
 - **Cleans up Control Panel uninstall entries**
@@ -20,7 +20,7 @@
 - No need for Python installed (standalone EXE provided)
 
 ## Installation
-1. Download the latest release from the [Releases] page or obtain `2345123_tools.exe` from a trusted source.
+1. Download the latest release from the Releases page or obtain `2345123_tools.exe` from a trusted source.
 2. Place the EXE in any folder (no installation required).
 3. (Optional) Verify the digital signature and hash for security.
 
